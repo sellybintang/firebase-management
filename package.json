@@ -1,0 +1,31 @@
+{
+  "name": "firebase-management",
+  "version": "1.0.0",
+  "description": "Tugas ini bertujuan memberikan pengalaman praktis pada seorang junior Node.js backend developer dalam mengelola berbagai aspek Firebase di sisi server. Ini termasuk Firebase Authentication, Firestore, Storage, dan Firebase Cloud Messaging (FCM).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/andalan-solusi-cemerlang/internship/firebase-management.git"
+  },
+  "author": "Selly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/andalan-solusi-cemerlang/internship/firebase-management/issues"
+  },
+  "homepage": "https://gitlab.com/andalan-solusi-cemerlang/internship/firebase-management#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "firebase": "^10.2.0",
+    "logger": "^0.0.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7"
+  }
+}
