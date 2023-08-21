@@ -1,9 +1,14 @@
 {
-    "apiKey": "AIzaSyAyB-b92e4BobhSRLXCH8Bv23G6xHuBaI4",
-    "authDomain": "causal-calculus-371108.firebaseapp.com",
-    "projectId": "causal-calculus-371108",
-    "storageBucket": "causal-calculus-371108.appspot.com",
-    "messagingSenderId": "425559135871",
-    "appId": "1:425559135871:web:e337914913c8a85e15914a",
-    "measurementId": "G-SGLR3H8LDB"
-  }
+  "type": "service_account",
+  "project_id": "causal-calculus-371108",
+  "private_key_id": "daefab9f72e0002f09adca2a48ebc2303b174121",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC29sBCqTYxad3S\nB9c4MtebcfvUmAhdrQ/3nTveJcrCMTLNmkHH+rUzup4R2XrdQ18nUZyTEThzwuL7\n8VulD9BK0+SLuLJ+hBHB22HXSAPGk1VTr9fRrUwjnxs7cybgtuyifsmit7eY17Mb\nWezvJzKmcX34t1FsOAY/DGG3gpZnRCBeReux2ddXIEFPPhJaXyXercyqs8lxfUmH\nWlTpYKgmcNdcVQTJS0qszQs5URLzrlBN80QxZ96TJFXDuVJiw3pcG/l7fbAplW3N\nkxJNkJUe/9j3UNqGwNmPpcGXxm58zuAbc3sCKe+B2m9+OF9NX6XfzkIJ6ZI2bH9V\nwixhmvMHAgMBAAECggEAAgTox144pfVisABXuNLWoKMvj47ao0IFCtRom7VeonLQ\nmL14hoUPSlsqeoO2az39H3xqHEF8RvtZBl2t4sl6MypZb2tPzMl+xPWExvoijazT\n3OJn/HQwCMHX4DahwuXTbnyDk5V/UZDbE20ga7jdF7w+w63Ahlu4Nby5+3FDkf7I\nJk58VxKF0x8ZEwjIU45qzpmOngv/H4f9VdKaeaSoYg1bz4EAv5uqf4SM6mUNHFKg\n4Q/qdPb+l/rfU4dRBVD6OzQ24bvZ+YCFkpLEUm6GesARGLzazTE8JyRU2YR5TzYE\n3pIOjSetAMPygRlqfbHhaIl20qMEXP0kM+Duy0ijzQKBgQDhvTJWzqqfAl1U3Tvh\n9+vWq1NA1KfdRrtbz47bign9Yakz2KF2tRR6rewF+nxRS0E7laCdQKPbXD1zd5jW\ngq/I2O9xpSuv5MRXdlI66yfg0x3lk2S5t16XbhylVVb3kdL+o5LVaZwiuoLWE218\nQcCJtuySqFKdJJXWCarYT0nD/QKBgQDPfZ3VCrCxgAv6pjmZHDssDVxBh0TOdXxb\nW5qF9+mH8Iz3CWsBspzUwEVyzfdBp/qmNgo6fO5W9VtgomG0AWqdKdH/hD9Po76c\n/GUf8RJuLw2IWM6Vpe7obCYvDBLS9tn5WF5BtNtpQ1xomPGuG3FyhyU2kEZ72POk\nlEZRTnqIUwKBgQCXUJUfrySbtaAONMXhMKh7mxgRSvrCzpjkb/rYmm0b1Yzv3fRN\neBAkM9UUJNWUQJeXczLYde3gKrJeZfqjP7LJNPE8AnWIUBZ0cjGooNx4TcuqieRo\nwMu9Qegdw1iqVqtSWR8hwssQVGlDSn6HXiPLrDxkCkRmZZGyiYRlvrA5mQKBgQDH\nDnMRxHy4/OgBIeFWEzBtVa/xKa2ICEwydRIsficrhEooYX+oFEvDC2ZU+mXANkAP\nnv53GA2rnR15+q6S+1zlxA4z/RKj+6pNfxIg76zHyhpIeTJPfO5TShXjwsh4XdvG\nC9H5ZWGtfbM0oa4SYz+WKTM5QnZsMDml5Z4EOK7zAwKBgQCmxMNT+4HpTEhzWrS0\n3Hwv51wC/yBhd6AxjYfZYuIqu1E2jsGs5jwD8TQ/0g5jrySxHYwq0+v1IqtMGnAC\n+8x1VfmYxfChDZwjgCeCCxVJDCwl9hSzri3CcIPRRl02j86kltYlgjhmLfNNwkGz\nPZog506nypCIEZr+/TCNCr0kbQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6isua@causal-calculus-371108.iam.gserviceaccount.com",
+  "client_id": "111662843653031506455",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6isua%40causal-calculus-371108.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
