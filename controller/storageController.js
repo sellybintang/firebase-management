@@ -51,13 +51,6 @@ exports.downloadFile = async (req, res) => {
       expires,
     });
 
-    // const namaFile = "library/" + filename;
-    // const file = bucket.file(namaFile);
-
-    // const downloadNewFile = file.download({
-    //   destination: destination,
-    // });
-
     res.status(200).json({
       status: "Succes",
       message: "Succesfully to download file",
@@ -70,30 +63,6 @@ exports.downloadFile = async (req, res) => {
     });
   }
 };
-
-// exports.downloadFile = async (req, res) => {
-//   try {
-//     const filename = req.params.filename;
-
-//     const namaFile = "library/" + filename;
-//     const file = bucket.file(namaFile);
-
-//     const downloadNewFile = file.download({
-//       destination: destination,
-//     });
-
-//     res.status(200).json({
-//       status: "Succes",
-//       message: "Succesfully to download file",
-//       downloadNewFile,
-//     });
-//   } catch (err) {
-//     res.status(500).json({
-//       status: "failed",
-//       message: err.message,
-//     });
-//   }
-// };
 
 // DeleteFile
 
